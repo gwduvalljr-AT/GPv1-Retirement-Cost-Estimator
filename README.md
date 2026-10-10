@@ -1,4 +1,4 @@
-# GPv1 to GPv2 Billing Impact Estimator
+# GPv1 to GPv2 Billing Impact Estimator - Estimate Your Azure Storage Cost Impact
 
 [![CI](https://github.com/microsoft/GPv1-Retirement-Cost-Estimator/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/GPv1-Retirement-Cost-Estimator/actions/workflows/ci.yml)
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FGPv1-Retirement-Cost-Estimator%2Fmain%2Finfra%2Fazuredeploy.json)
